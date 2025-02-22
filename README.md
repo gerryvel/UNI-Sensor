@@ -16,6 +16,8 @@ The PCB Board is complete with cover for the case.
 
 ## PCB
 
+PCB by Aisler: [Link](https://aisler.net/p/CPIILIWO)
+
 ![grafik](https://github.com/user-attachments/assets/9237702e-ea9d-4694-a76b-8f9c9d8d6c1d)
 
 ## Foto
