@@ -1,5 +1,11 @@
 # UNI-Sensor
 Uni Sensor-case for Boatssensors
+![ESP32](https://img.shields.io/badge/ESP32-grey?logo=Espressif)
+![KiCad](https://img.shields.io/badge/KiCad-darkblue?logo=KiCad)
+![Relaise](https://img.shields.io/github/release-date/gerryvel/NMEA2000_TPW?)
+![lastcommit](https://img.shields.io/github/last-commit/gerryvel/NMEA2000_TPW)
+![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)
+
 
 ## Description
 Universal housing for the boat sensors. 
