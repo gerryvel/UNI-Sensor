@@ -28,3 +28,10 @@ PCB by Aisler: [Link](https://aisler.net/p/CPIILIWO)
 
 ## Foto
 
+![image](https://github.com/user-attachments/assets/acca51ec-5697-454b-a93a-6d111932ee75)
+
+![image](https://github.com/user-attachments/assets/b70798c0-e3a4-4893-b07d-f2c90de33de3)
+
+![image](https://github.com/user-attachments/assets/4decf622-997f-4fb9-91bb-c0869aa0ace2)
+
+
