@@ -1,5 +1,5 @@
 # UNI-Sensor
-Uni Sensor-case for Boatssensors
+
 ![ESP32](https://img.shields.io/badge/ESP32-grey?logo=Espressif)
 ![KiCad](https://img.shields.io/badge/KiCad-darkblue?logo=KiCad)
 ![Relaise](https://img.shields.io/github/release-date/gerryvel/NMEA2000_TPW?)
@@ -8,7 +8,7 @@ Uni Sensor-case for Boatssensors
 
 
 ## Description
-Universal housing for the boat sensors. 
+Universal housing / sensorcase for the boat sensors. 
 Works with the software for the MD sensor, BD sensor and TPW sensor. 
 An additional board is available for the MD sensor, which is used to connect the sensors in the motor.
 Depending on what is desired, the PCB board is assembled.
