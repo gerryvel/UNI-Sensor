@@ -41,7 +41,7 @@ PCB by Aisler: [Link](https://aisler.net/p/CPIILIWO)
 - D5	1N4148	[Link](https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf)
 - D6	P4SMAJ26CA	[Link](https://www.tme.eu/Document/1eef058bc29c4135e52f8ab997b46c91/p4smaj65.pdf)
 - FL1	EPCO B82789C0513	
-- J1,J2,J3,J4	2091-1174	2091-1174	
+- J1,J2,J3,J4	Wago 2091-1174	[Link](https://www.wago.com/de/steckverbinder/1-leiter-tht-federleiste-gerade/p/2091-1174)
 - J5	236-402	[Link](https://www.wago.com/236-402)
 - J6,J7	236-403	[Link](https://www.wago.com/236-403)
 - J8	M12 Cable 5x0,34mm²	
