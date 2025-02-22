@@ -5,7 +5,8 @@
 ![Relaise](https://img.shields.io/github/release-date/gerryvel/NMEA2000_TPW?)
 ![lastcommit](https://img.shields.io/github/last-commit/gerryvel/NMEA2000_TPW)
 ![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue?link=https://open-boat-projects.org/de/)
-
+[![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)](https://open-boat-projects.org/de/)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/ravensystem)
 
 ## Description
 Universal housing / sensorcase for the boat sensors. 
