@@ -12,7 +12,8 @@ Universal housing / sensorcase for the boat sensors.
 Works with the software for the
 - TPW sensor [Link](https://github.com/gerryvel/NMEA2000_TPW)
 - MD sensor [Link](https://github.com/gerryvel/Motordaten)
-- BD sensor [Link](https://github.com/gerryvel/Bootsdaten) 
+- BD sensor [Link](https://github.com/gerryvel/Bootsdaten)
+  
 An additional board is available for the MD sensor, which is used to connect the sensors in the motor.
 Depending on what is desired, the PCB board is assembled.
 The PCB Board is complete with cover for the case.
