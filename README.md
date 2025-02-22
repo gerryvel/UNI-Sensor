@@ -6,6 +6,7 @@ Universal housing for the boat sensors.
 Works with the software for the MD sensor, BD sensor and TPW sensor. 
 An additional board is available for the MD sensor, which is used to connect the sensors in the motor.
 Depending on what is desired, the PCB board is assembled.
+The PCB Board is complete with cover for the case.
 
 ## Circuit Diagram
 
