@@ -19,8 +19,7 @@ The PCB Board is complete with cover for the case.
 
 ## Circuit Diagram
 
-![grafik](https://github.com/user-attachments/assets/a0a4456d-ad2e-4aba-92f2-8b04595a1a2f)
-
+![grafik](https://github.com/user-attachments/assets/197839f6-88d9-449e-bad3-d18180a2e885)
 ![grafik](https://github.com/user-attachments/assets/645a043e-5bcb-4a8e-890a-a823505a91c1)
 
 ## PCB
@@ -28,6 +27,7 @@ The PCB Board is complete with cover for the case.
 PCB by Aisler: [Link](https://aisler.net/p/CPIILIWO)
 
 ![grafik](https://github.com/user-attachments/assets/9237702e-ea9d-4694-a76b-8f9c9d8d6c1d)
+![grafik](https://github.com/user-attachments/assets/ddced970-ff48-4024-8d60-0360f3428a74)
 
 ## Partlist
 
