@@ -57,7 +57,8 @@ PCB by Aisler: [Link](https://aisler.net/p/CPIILIWO)
 - U4	H11L1	[Link](https://www.onsemi.com/pub/Collateral/H11L3M-D.PDF)
 - U5,U6	DS18B20	[Link](http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)
 - Case Phoenix UM-ALU 4-72 PROFILE 42,5 [Link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuseunterteil-um-alu-4-72-profile-425-2200917)
-- Side elements (left and right) incl. snap-on foot Phoenix UM-ALU 4-72 COVER PA BK [Link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuse-seitenteil-um-alu-4-72-cover-pa-bk-2200934) 
+- Side elements (left and right) incl. snap-on foot Phoenix UM-ALU 4-72 COVER PA BK [Link](https://www.phoenixcontact.com/de-de/produkte/aufbaugehaeuse-seitenteil-um-alu-4-72-cover-pa-bk-2200934)
+- the folder /Phoenix UM Gehäuse contain *.stl for self-printing Case 
 
 ## Foto
 
